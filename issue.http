@@ -1,0 +1,7 @@
+POST {{baseUrl}}/issues
+Content-Type: application/json
+
+{
+  "title": "First issue",
+  "description": "Description of the first issue"
+}
